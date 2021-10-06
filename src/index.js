@@ -5,6 +5,9 @@
 //  * @return {boolean}
 //  */
 
+
+
+// leetcode submitted solution    
  var isPalindrome = function(x) {
     if (x < 0) return false;
     var num = x;

@@ -17,4 +17,5 @@
       num = Math.floor(num / 10);
     }
     return res === x;
+    
   };
